@@ -1,4 +1,4 @@
-#First automation part
+# First automation part
 This first part will be all about how I came to a conclusion with what my topic will be and the issues I have come across as I have been reserching
 
 I have thought about writing logs but decided to make weekly updates. This week I have decided that I wanted to pursue any topic related with Medicine, and realized I need to choose a more specific thing to research and talk about. I wanted my blog to be as research-heavy as possible, as it is something that I enjoy doing and I am good at, so mixing research and coding seems like a good idea.
