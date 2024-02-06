@@ -1,10 +1,10 @@
 
 # Augsburg
 - Universitätsklinikum Augsburg - Medizincampus
-Orthopädische Fachkliniken der Hessing Stiftung
-KJF Klinik gGmbH
-Klinik Vincentinum GmbH & Co. KG
-die stadtklinik im diako
+- Orthopädische Fachkliniken der Hessing Stiftung
+- KJF Klinik gGmbH
+- Klinik Vincentinum GmbH & Co. KG
+- die stadtklinik im diako
 
 
 # Aschaffenburg
