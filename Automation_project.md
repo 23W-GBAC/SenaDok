@@ -5,10 +5,10 @@
 | Augsburg | KJF Klinik gGmbH | https://maps.app.goo.gl/fMYVTn7k4mFpHUzT8 | http://www.josefinum.de/ |
 | Augsburg | Klinik Vincentinum GmbH & Co. KG | https://maps.app.goo.gl/GdWCxnLJJj7y5Guz7 | http://www.klinik-vincentinum.de/ |
 | Augsburg |  Die stadtklinik im diako  | https://maps.app.goo.gl/93RrGLt35tz1fxKD6 | https://stadtklinik-diako.de/ |
-| Aschaffenburg |  Aschaffenburg | https://maps.app.goo.gl/RqDEMZTCx6Yni13s7 |  |
-| Aschaffenburg |  Bergman Deutsche Klinik Aschaffenburg GmbH | https://maps.app.goo.gl/jKat952h5xA9bKkb8 |  |
-| Aschaffenburg |  Sozialzentrum am Rosensee, Aschaffenburg | https://maps.app.goo.gl/RWkhHvTfoWzsh8ao7 |  |
-| Aschaffenburg |  Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH | https://maps.app.goo.gl/CLsH9V2kPRJsgLo38 |  |
+| Aschaffenburg |  Aschaffenburg | https://maps.app.goo.gl/RqDEMZTCx6Yni13s7 | http://www.frauenklinik.com/ |
+| Aschaffenburg |  Bergman Deutsche Klinik Aschaffenburg GmbH | https://maps.app.goo.gl/jKat952h5xA9bKkb8 | https://www.bergmanclinics-hofgartenklinik.de/ |
+| Aschaffenburg |  Sozialzentrum am Rosensee, Aschaffenburg | https://maps.app.goo.gl/RWkhHvTfoWzsh8ao7 | http://sozialzentrum-am-rosensee.bezirk-unterfranken.de/ |
+| Aschaffenburg |  Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH | https://maps.app.goo.gl/CLsH9V2kPRJsgLo38 | http://www.klinikum-ab-alz.de/ |
 | Bamberg | Klinikum Bamberg - Betriebsstätte am Michelsberg | https://maps.app.goo.gl/z1HfcfCSFGhSBqku9 |  |
 | Bamberg | Psychiatrische Tagesklinik Bamberg Forchheim gemeinnützige GmbH | https://maps.app.goo.gl/8CfuHHJf68h42YHT6 |  |
 | Bamberg | Bezirkskrankenhaus Bayreuth | https://maps.app.goo.gl/p8YgaUuQvLmyxp1SA |  |
