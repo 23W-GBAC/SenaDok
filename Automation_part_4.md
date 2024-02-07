@@ -1,7 +1,7 @@
 # The fourth part
 
 In the end, I decided that my automation will be about making a table with everythign to be able to organize how everything looks
-# | City              |  Hospital Name        | Location (On GoogleMaps)     | Website                        |
+| City              |  Hospital Name        | Location (On GoogleMaps)     | Website                        |
 |-------------------|---------------------------|----------------------|--------------------------------|
 | Augsburg | Universitätsklinikum Augsburg - Medizincampus  | https://maps.app.goo.gl/dGMy3igX817tDijx7   | http://www.uk-augsburg.de/ |
 | Augsburg | Orthopädische Fachkliniken der Hessing Stiftung | https://maps.app.goo.gl/SKbA9ZLacSdGxc3c6  | http://www.hessing-kliniken.de/ |
