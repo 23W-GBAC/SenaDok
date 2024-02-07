@@ -209,12 +209,20 @@ Psychosomatik im Bezirkskrankenhaus Passau
 
 - Universitätsklinikum Würzburg
 ![](https://www.wuerzburg24.com/wp-content/uploads/2016/10/uniklinikum-wuerzburg.jpg)
+
+
 - Klinikum Würzburg Mitte gGmbH
 ![](https://www.kwm-klinikum.de/assets/bilder/allgemein/fuerstenbau_juspi.jpg)
+
+
 - Klinik König-Ludwig-Haus
-![]()
-- Rotkreuzklinik Würzburg gGmbH
 ![](https://www.med.uni-wuerzburg.de/fileadmin/_processed_/6/b/csm_01koenig-ludwig-haus_c457429dcd.jpg)
+
+
+- Rotkreuzklinik Würzburg gGmbH
+![](https://rotkreuzklinik-wuerzburg.de/_images/2021/header/rk_wue_header_anfahrt_RKW-NeubauAltbau_l.jpg?m=1636042896)
+
+
 - Theresienklinik Würzburg
 ![](https://www.wuerzburgerleben.de/wp-content/uploads/sites/10/2019/07/Theresienklinik_Hof.jpg)
 ---------------------------
