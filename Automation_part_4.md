@@ -31,6 +31,8 @@ Sub rows contain data for each hospitals like their name, location, and website.
 
 I can link a website with using the Markdown link syntax. 
 
+
+With this code I did also manually have to input every data, which is what I would rather find an automatic way to do it as it takes a long time and automation is for sparing more time. However, it did make my data come all together and make it look more organized and appealing to the eye.
 For example, [uk-augsburg.de](http://www.uk-augsburg.de/) creates a hyperlink to Universitätsklinikum Augsburg - Medizincampus Hospital.
 
 - Markdown Preview:
