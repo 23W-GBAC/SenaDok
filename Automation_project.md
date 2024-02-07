@@ -1,8 +1,11 @@
-| City              | Hospital Name     | Location (On GoogleMaps)     | Website                        |
-|-------------------|-------------------|----------------------|--------------------------------|
-| St. Mary's Medical| New York, USA     | Cardiology, Surgery  | [stmarys.com](http://stmarys.com) |
-| General Hospital   | London, UK        | Internal Medicine    | [general-hospital.co.uk](http://general-hospital.co.uk) |
-| City Medical Center| Los Angeles, USA  | Pediatrics, Orthopedics | [citymedicalcenter.org](http://citymedicalcenter.org) |
+| City              | Hospital Name        | Location (On GoogleMaps)     | Website                        |
+|-------------------|---------------------------|----------------------|--------------------------------|
+| Augsburg | Universitätsklinikum Augsburg - Medizincampus     | https://maps.app.goo.gl/dGMy3igX817tDijx7   | [stmarys.com](http://stmarys.com) |
+| Augsburg | London, UK        | Orthopädische Fachkliniken der Hessing Stiftung   | [general-hospital.co.uk](http://general-hospital.co.uk) |
+| Augsburg | Los Angeles, USA  | KJF Klinik gGmbH | [citymedicalcenter.org](http://citymedicalcenter.org) |
+| Augsburg | Los Angeles, USA  | Klinik Vincentinum GmbH & Co. KG | [citymedicalcenter.org](http://citymedicalcenter.org) |
+| Augsburg | Los Angeles, USA  | die stadtklinik im diako | [citymedicalcenter.org](http://citymedicalcenter.org) |
+
 
 # Augsburg
 - Universitätsklinikum Augsburg - Medizincampus
