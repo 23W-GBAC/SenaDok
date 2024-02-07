@@ -6,6 +6,17 @@ I decided that this blog will be about all the hospitals that are available in M
   One difference I'll have that other websites similar to my blog concept doesn't have is that mine will include a bit more thorough information about the hospitals as well as images to show how they look like.
 
 # Augsburg
+
+| City              |  Hospital Name        | Location (On GoogleMaps)     | Website                        |
+|-------------------|---------------------------|----------------------|--------------------------------|
+| Augsburg | Universitätsklinikum Augsburg - Medizincampus  | https://maps.app.goo.gl/dGMy3igX817tDijx7   | http://www.uk-augsburg.de/ |
+| Augsburg | Orthopädische Fachkliniken der Hessing Stiftung | https://maps.app.goo.gl/SKbA9ZLacSdGxc3c6  | http://www.hessing-kliniken.de/ |
+| Augsburg | KJF Klinik gGmbH | https://maps.app.goo.gl/fMYVTn7k4mFpHUzT8 | http://www.josefinum.de/ |
+| Augsburg | Klinik Vincentinum GmbH & Co. KG | https://maps.app.goo.gl/GdWCxnLJJj7y5Guz7 | http://www.klinik-vincentinum.de/ |
+| Augsburg |  Die stadtklinik im diako  | https://maps.app.goo.gl/93RrGLt35tz1fxKD6 | https://stadtklinik-diako.de/ |
+
+-------------------------------------------------------------------------------
+
 - Universitätsklinikum Augsburg - Medizincampus
 ![](https://www.uk-augsburg.de/fileadmin/_processed_/e/b/csm_headerbild_klinikum_augsburg_unternehmen_02_8dfdac9613.jpg)
 
