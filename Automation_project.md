@@ -9,15 +9,15 @@
 | Aschaffenburg |  Bergman Deutsche Klinik Aschaffenburg GmbH | https://maps.app.goo.gl/jKat952h5xA9bKkb8 | https://www.bergmanclinics-hofgartenklinik.de/ |
 | Aschaffenburg |  Sozialzentrum am Rosensee, Aschaffenburg | https://maps.app.goo.gl/RWkhHvTfoWzsh8ao7 | http://sozialzentrum-am-rosensee.bezirk-unterfranken.de/ |
 | Aschaffenburg |  Klinikum Aschaffenburg-Alzenau gemeinnützige GmbH | https://maps.app.goo.gl/CLsH9V2kPRJsgLo38 | http://www.klinikum-ab-alz.de/ |
-| Bamberg | Klinikum Bamberg - Betriebsstätte am Michelsberg | https://maps.app.goo.gl/z1HfcfCSFGhSBqku9 |  |
-| Bamberg | Psychiatrische Tagesklinik Bamberg Forchheim gemeinnützige GmbH | https://maps.app.goo.gl/8CfuHHJf68h42YHT6 |  |
-| Bamberg | Bezirkskrankenhaus Bayreuth | https://maps.app.goo.gl/p8YgaUuQvLmyxp1SA |  |
-| Bamberg | Klinikum Bamberg - Betriebsstätte am Bruderwald | https://maps.app.goo.gl/DxDuUNrdanQuvmG86 |  |
-| Bayreuth | Bezirkskrankenhaus Bayreuth  | https://maps.app.goo.gl/VagU9a46kp56DhUU8 |  |
-| Bayreuth | Klinik Hohe Warte | https://maps.app.goo.gl/HSK8y6AoazPQCNNX7 |  |
-| Bayreuth | Klinikum Bayreuth  | https://maps.app.goo.gl/QcAgbBqkrF3EBBaZ9 |  |
-| Erlangen | Universitätsklinikum Erlangen | https://maps.app.goo.gl/8wGwoQAxvRKAwoda9 |  |
-| Erlangen | Malteser Waldkrankenhaus St. Marien | https://maps.app.goo.gl/h8g5EuL3atUVPwyX9 |  |
+| Bamberg | Klinikum Bamberg - Betriebsstätte am Michelsberg | https://maps.app.goo.gl/z1HfcfCSFGhSBqku9 | http://www.sozialstiftung-bamberg.de/ |
+| Bamberg | Psychiatrische Tagesklinik Bamberg Forchheim gemeinnützige GmbH | https://maps.app.goo.gl/8CfuHHJf68h42YHT6 | https://www.sozialstiftung-bamberg.de/klinikum-bamberg/kliniken-und-experten/psychiatrie/psychiatrische-tagesklinik-bamberg-forchheim/ |
+| Bamberg | Bezirkskrankenhaus Bayreuth | https://maps.app.goo.gl/p8YgaUuQvLmyxp1SA | https://www.gebo-med.de/ |
+| Bamberg | Klinikum Bamberg - Betriebsstätte am Bruderwald | https://maps.app.goo.gl/DxDuUNrdanQuvmG86 | http://www.sozialstiftung-bamberg.de/ |
+| Bayreuth | Bezirkskrankenhaus Bayreuth  | https://maps.app.goo.gl/VagU9a46kp56DhUU8 | https://www.gebo-med.de/ |
+| Bayreuth | Klinik Hohe Warte | https://maps.app.goo.gl/HSK8y6AoazPQCNNX7 | http://www.klinikum-bayreuth.de/ |
+| Bayreuth | Klinikum Bayreuth  | https://maps.app.goo.gl/QcAgbBqkrF3EBBaZ9 | http://www.klinikum-bayreuth.de/ |
+| Erlangen | Universitätsklinikum Erlangen | https://maps.app.goo.gl/8wGwoQAxvRKAwoda9 | http://www.uk-erlangen.de/ |
+| Erlangen | Malteser Waldkrankenhaus St. Marien | https://maps.app.goo.gl/h8g5EuL3atUVPwyX9 | https://www.waldkrankenhaus.de/ |
 | Erlangen | Klinikum am Europakanal | https://maps.app.goo.gl/gvWudYrqu6sP3X667 |  |
 | Fürth | Klinikum Fürth | https://maps.app.goo.gl/XA3hbibaRExPBwtu7 |  |
 | Fürth | Psychiatrische Tagesklinik und Institutsambulanz Fürth des Klinikums am Europakanal Erlangen | https://maps.app.goo.gl/XwSEkUeZJSRoz1oy7 |  |
