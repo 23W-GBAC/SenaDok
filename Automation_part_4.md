@@ -20,6 +20,7 @@ Separate columns in each row using the pipe symbol (|). This symbol is used to s
 - Header Row:
 
 The first row contains the headers of the table. It helps identify the content of each column. I can change the placement of the text within the columns by using colons (:). 
+
 For example, :--- for left-aligned, ---: for right-aligned, and :---: for center-aligned.
 
 - Data Rows:
@@ -29,6 +30,7 @@ Sub rows contain data for each hospitals like their name, location, and website.
 - Linking Websites:
 
 I can link a website with using the Markdown link syntax. 
+
 For example, [uk-augsburg.de](http://www.uk-augsburg.de/) creates a hyperlink to Universitätsklinikum Augsburg - Medizincampus Hospital.
 
 - Markdown Preview:
