@@ -105,4 +105,9 @@
 - Rotkreuzklinik Würzburg gGmbH
 - Theresienklinik Würzburg
 
+| Hospital Name     | Location          | Specialties          | Website                        |
+|-------------------|-------------------|----------------------|--------------------------------|
+| St. Mary's Medical| New York, USA     | Cardiology, Surgery  | [stmarys.com](http://stmarys.com) |
+| General Hospital   | London, UK        | Internal Medicine    | [general-hospital.co.uk](http://general-hospital.co.uk) |
+| City Medical Center| Los Angeles, USA  | Pediatrics, Orthopedics | [citymedicalcenter.org](http://citymedicalcenter.org) |
 
