@@ -4,4 +4,20 @@ I decided that this blog will be about all the hospitals that are available in M
   I also chose to do this project as I am studying Health Informatics where Technology meets Medicine, hence why I can relate to this more.
   To make this blog something I can manage, I will only include hospitals from major cities in Bavaria instead of all the hospitals in Germany or even Bavaria.
   One difference I'll have that other websites similar to my blog concept doesn't have is that mine will include a bit more thorough information about the hospitals as well as images to show how they look like.
-![](https://www.german-hospital-directory.com/app/file/image/show/5fe86739906f07f2_img_5266.jpg.png)
+
+# Augsburg
+- Universitätsklinikum Augsburg - Medizincampus
+![](https://www.uk-augsburg.de/fileadmin/_processed_/e/b/csm_headerbild_klinikum_augsburg_unternehmen_02_8dfdac9613.jpg)
+
+- Orthopädische Fachkliniken der Hessing Stiftung
+![](https://www.hessing-kliniken.de/fileadmin/user_upload/01-hessing-stiftung/images/teaser/Hessing_Teaser_Webcam.jpg)
+
+- KJF Klinik gGmbH
+![](http://www.die-augsburger-zeitung.de/wp-content/uploads/2010/03/josefinum.jpg) 
+
+- Klinik Vincentinum GmbH & Co. KG
+![](https://www.augsburger-allgemeine.de/img/bilder/crop62650686/6009428067-cv16_9-w940-owebp/Vincentinum?t=.jpg)
+
+- Die stadtklinik im diako
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Augsburg_Fr%C3%B6lichstra%C3%9Fe_17_02.jpg/1199px-Augsburg_Fr%C3%B6lichstra%C3%9Fe_17_02.jpg?20170529200805)
+
