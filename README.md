@@ -50,10 +50,16 @@ I decided that this blog will be about all the hospitals that are available in M
 # Bamberg
 - Klinikum Bamberg - Betriebsstätte am Michelsberg
 ![](https://www.deutsches-krankenhaus-verzeichnis.de/app/file/image/show/c42148ec79c0cc70_kw19_ssb_219_low.jpg.png)
+
+
 - Psychiatrische Tagesklinik Bamberg Forchheim gemeinnützige GmbH
 ![](https://www.sozialstiftung-bamberg.de/fileadmin/default/_processed_/2/1/csm_KW17_SSB_726_c0e1cd8950.jpg)
+
+
 - Bezirkskrankenhaus Bayreuth - Tagesklinik für Kinder- und Jugendpsychiatrie und -psychotherapie in Bamberg
 ![](https://www.bibliomedmanager.de/fileadmin/_processed_/7/0/csm_Regiomed_Kliniken_Neubau_2021_38e37d8abb.jpg)
+
+
 - Klinikum Bamberg - Betriebsstätte am Bruderwald
 ![](https://images.nordbayern.de/image/contentid/policy:1.3841745:1505817423/DSC_0868.jpg?f=4%3A3&h=1536&m=FIT&w=2048&%24p%24f%24h%24m%24w=6063276)
 ---------------------------------
@@ -63,8 +69,12 @@ I decided that this blog will be about all the hospitals that are available in M
 
 - Bezirkskrankenhaus Bayreuth
 ![](https://www.bezirk-oberfranken.de/fileadmin/_processed_/a/0/csm_Bezirk-Oberfranken-Bezirkskrankenhaus-Bayreuth-b_259baaf787.jpg)
+
+
 - Klinik Hohe Warte
 ![](https://www.kurier.de/media.media.6f7a1620-3da6-4b2f-aa56-00422b0daf26.16x9_1024.jpg)
+
+
 - Klinikum Bayreuth
 ![](https://karriere.klinikum-bayreuth.de/fileadmin/_processed_/f/a/csm_02_Klinikum_Bayreuth_Sommer_2017_Richtung_NotdWest_3_1_1000_34ff1e1c3e.jpg)
 -----------------------------------------
