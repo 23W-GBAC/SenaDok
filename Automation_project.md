@@ -1,4 +1,4 @@
-| City              | Hospital Name        | Location (On GoogleMaps)     | Website                        |
+| City              |  Hospital Name        | Location (On GoogleMaps)     | Website                        |
 |-------------------|---------------------------|----------------------|--------------------------------|
 | Augsburg | Universitätsklinikum Augsburg - Medizincampus  | https://maps.app.goo.gl/dGMy3igX817tDijx7   | [stmarys.com](http://stmarys.com) |
 | Augsburg | Orthopädische Fachkliniken der Hessing Stiftung | https://maps.app.goo.gl/SKbA9ZLacSdGxc3c6  |  |
@@ -61,7 +61,7 @@
 | Würzburg | Klinikum Würzburg Mitte gGmbH | https://maps.app.goo.gl/JCY9QC7r6ewjoPNq7 |  |
 | Würzburg | Klinik König-Ludwig-Haus | https://maps.app.goo.gl/5D3fqXsnPKJUqvAX7 |  |
 | Würzburg | Rotkreuzklinik Würzburg gGmbH | https://maps.app.goo.gl/s4PdwG2b9He9yhgUA |  |
-| Würzburg | Theresienklinik Würzburg | https://maps.app.goo.gl/Dv1yqvbwWE5ucuCE8 |  |
+| Würzburg | Theresienklinik Würzburg | https://maps.app.goo.gl/Dv1yqvbwWE5ucuCE8 | http://www.theresienklinik-wuerzburg.de/ |
 
 
 -------------------------------------------------------------------------------
